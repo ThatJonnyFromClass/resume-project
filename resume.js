@@ -1,3 +1,4 @@
+console.log(" resume.js is connected");
 // this line of code won't run
 /* this won't run (multiline)
 */ 
